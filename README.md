@@ -21,7 +21,7 @@ Print both the values it would be interchanged
 End the program
 
 ## PROGRAM:
-```python
+```
 #Program to swap two values.
 #Developed by:VISHNUPRIYA R
 #Registernumber:22006962
